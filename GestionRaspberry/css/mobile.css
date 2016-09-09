@@ -1,1 +1,104 @@
+/*Styles de Gestion Raspberry 2.2 par Balthazar DELIERS, juin 2015*/
 
+@font-face {
+  font-family: "Raleway";
+  src: url('../font/Raleway.ttf');
+}
+
+span, div, body, section{
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+}
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #FFFFFF;
+	height: 100%;
+	color: #BC1142;
+	font-family: 'Raleway';
+}
+#content{
+	width: 100%;
+	margin-left: -3px;
+}
+.icon{
+	height: 75%;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: auto 60%;
+	vertical-align: top;
+}
+#firstTxt{
+	text-transform: lowercase;
+}
+.txt{
+	font-size: 16px;
+	height: 25%;
+	text-align: center;
+	width: 100%;
+	background-color: #E2E0E0;
+	word-wrap: break-word;
+	vertical-align: top;
+}
+a{
+	text-transform: none;
+	text-decoration: none;
+	color: white;
+	font-weight: bolder;
+}
+#txt_copy{
+	vertical-align: middle;
+	font-size: 22px;
+	color: white;
+}
+
+/*BLOCS*/
+
+.bloc{
+	width: 42.5%;
+	margin-left: 5%;
+	margin-bottom: 4px;
+	padding: 0;
+	vertical-align: top;
+	background-color: #EDEDED;
+}
+.temp{
+	background-image: url('../img/temp.png');
+}
+.users{
+	background-image: url('../img/users.png');
+}
+.uptime{
+	background-image: url('../img/uptime.png');
+}
+.freq{
+	background-image: url('../img/freq.png');
+}
+.halt{
+	background-image: url('../img/halt.png');
+}
+.reboot{
+	background-image: url('../img/reboot.png');
+}
+.copyright{
+	width: 91%;
+	background-color: #BC1142;
+	text-align: center;
+	margin-bottom: 5%;
+}
+.calendar{
+	background-image: url('../img/calendar.png');
+}
+.ram{
+	background-image: url('../img/ram.png');
+}
+.sd{
+	background-image: url('../img/sd.png');
+}
+.titre{
+	background-image: url('../img/logo.png');
+	background-color: #BC1142;
+	height: 100%;
+}
