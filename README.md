@@ -17,3 +17,5 @@ Installation :
      2) Accédez a votre Pi depuis un navigateur (mobile de préférence), 
      entrez dans le répertoire "GestionRaspberry2.2Mobile", et c'est tout !
      Vous pouvez désormais avoir des infos en temps réel sur votre Rpi et l'éteindre/redémarrer a distance !
+     
+![alt tag](https://raw.githubusercontent.com/BDeliers/GestionRaspberry/master/screenshots.png)
