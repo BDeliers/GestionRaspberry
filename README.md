@@ -1,5 +1,5 @@
 #Gestion Raspberry
-Module de gestion pour le Raspberry Pi fait par BDeliers en FRANCAIS
+Interface Web responsive design de monitoring pour le Raspberry Pi fait par BDeliers en FRANCAIS
 
 Version 2.2 : seconde refonte graphique et nouvelles fonctions (SD et RAM)
 Juin 2015
