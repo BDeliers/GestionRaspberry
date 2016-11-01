@@ -1,5 +1,5 @@
 <?php
 
-	shell_exec('sudo '.$_GET['commande']);
+	shell_exec('sudo '.escapeshellarg($_GET['commande']));
 
 ?>
